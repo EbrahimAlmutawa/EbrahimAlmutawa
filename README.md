@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ebrahim 👋
 
-<!--
-**EbrahimAlmutawa/EbrahimAlmutawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Data Science & Business Analytics — BIBF / University of London (2025–2028)
+📍 Bahrain
 
-Here are some ideas to get you started:
+## What I'm working on
+- Completing Year 1 of my degree (Maths, Stats, Economics, Business)
+- Building my Python skills through personal projects
+- Learning SQL and data visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Python** — core programming, OOP, functions
+- **Statistics** — probability, statistical reasoning (university level)
+- **Currently learning** — pandas, SQL, Power BI
+
+## Projects
+*Projects coming soon — check back as I build my portfolio*
+
+## Connect
+- LinkedIn: linkedin.com/in/ebrahim-almutawa-b44468348
+- Email: ebr.mutawa33@hotmail.com
