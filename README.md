@@ -17,5 +17,5 @@
 *Projects coming soon — check back as I build my portfolio*
 
 ## Connect
-- LinkedIn: linkedin.com/in/ebrahim-almutawa-b44468348
+- LinkedIn: https://linkedin.com/in/ebrahim-almutawa-b44468348
 - Email: ebr.mutawa33@hotmail.com
